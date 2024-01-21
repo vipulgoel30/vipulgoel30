@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipulgoel30&label=Profile%20views&color=0e75b6&style=flat" alt="vipulgoel30" /> </p>
 
-- 🌱 I’m currently learning **Next.js and TypeScript**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **react, css3 ,sass and tailwind.css**
 
