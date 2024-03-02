@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 💬 Ask me about **react,typescript,node.js,express,mongoose css3 ,sass and tailwind.css**
+- 💬 Ask me about **react, typescript, node.js, express, mongoose, css3 ,sass and tailwind.css**
 
 - 📫 How to reach me **vipul1234goyal@gmail.com**
 
