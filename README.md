@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipulgoel30&label=Profile%20views&color=0e75b6&style=flat" alt="vipulgoel30" /> </p>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **react, typescript, node.js, express, mongoose, css3 ,sass and tailwind.css**
+- 💬 Ask me about **react, typescript, node.js, express, mongoose,redux,docker, css3 ,sass and tailwind.css**
 
 - 📫 How to reach me **vipul1234goyal@gmail.com**
 
