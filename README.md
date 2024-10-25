@@ -2,9 +2,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipulgoel30&label=Profile%20views&color=0e75b6&style=flat" alt="vipulgoel30" /> </p>
-
-- 🌱 I’m currently learning **React Native**
-
+ 
 - 💬 Ask me about **react, typescript, node.js, express, mongoose,redux,docker, css3 ,sass and tailwind.css**
 
 - 📫 How to reach me **vipul1234goyal@gmail.com**
