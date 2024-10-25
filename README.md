@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vipul1234goyal@gmail.com**
 
-- 💬 Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+- 💬 Ask me about anything [here](https://github.com/vipulgoel30/vipulgoel30/issues)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
